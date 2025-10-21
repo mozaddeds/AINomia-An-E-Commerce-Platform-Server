@@ -1,8 +1,3 @@
-Here’s a **professional `README.md`** for your GitHub repository — fully tailored to your **AINomia** full-stack app based on your context and the analyzed code.
-
----
-
-```markdown
 # 🛍️ AINomia — AI-Powered E-Commerce Platform
 
 > **An intelligent full-stack e-commerce application designed to make online shopping smarter, faster, and more human-like through AI-assisted interactions.**
@@ -218,7 +213,3 @@ Full-Stack Developer & AI Enthusiast
 ## 📜 License
 
 This project is licensed under the **MIT License** — free to use and modify with attribution.
-
----
-
-> “Building e-commerce with AI isn’t about automation — it’s about amplifying human convenience.”
